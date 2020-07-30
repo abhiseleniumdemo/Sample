@@ -11,3 +11,5 @@ Modifying the file
 Amend the addition content to the same commit
 
 Reverting from Staging Area
+
+commit a single file
