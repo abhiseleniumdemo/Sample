@@ -1,3 +1,5 @@
 New File added for demo of reset command
 
 fetch commit from github
+
+Merge Example from local Repo
