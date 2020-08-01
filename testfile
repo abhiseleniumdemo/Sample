@@ -1,3 +1,7 @@
 This is a test file
 Modifying from Local
+<<<<<<< HEAD
 added some more content
+=======
+new modifications
+>>>>>>> e6c708ad3629e4f8df8e6120390857e283272fbd
