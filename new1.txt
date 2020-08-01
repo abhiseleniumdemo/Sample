@@ -1,3 +1,1 @@
-New File added for demo of reset command
-
-fetch commit from github
+Content added for Merging changes made on GitHub and Git
