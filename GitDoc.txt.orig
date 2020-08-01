@@ -14,4 +14,8 @@ Reverting from Staging Area
 
 commit a single file
 
-
+<<<<<<< .merge_file_a19524
+Adding some more content
+=======
+new added content
+>>>>>>> .merge_file_a19440
