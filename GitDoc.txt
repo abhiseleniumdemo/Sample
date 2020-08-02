@@ -2,7 +2,7 @@ This is a file where I will update and make changes to demonstrate Git and GitHu
 
 Updating the document for Commit to remote repository from Local Cloned copy of the repository
 
-Another update
+Another updates
 
 some more updates
 
