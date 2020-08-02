@@ -6,7 +6,7 @@ Another updates file
 
 some more updates
 
-Modifying the file
+Modifying the file from GitHub 
 
 Amend the addition content to the same commit
 
