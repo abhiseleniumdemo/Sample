@@ -14,4 +14,4 @@ Reverting from Staging Area
 
 commit a single file
 
-
+new additions 
