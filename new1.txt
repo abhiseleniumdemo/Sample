@@ -9,3 +9,5 @@ Content added for Merging changes made on GitHub and Git
 >>>>>>> 15efdf949f3440b1b61d0e793a2d13a9b60c2448
 
 Downstream and upstream
+
+rebase example
