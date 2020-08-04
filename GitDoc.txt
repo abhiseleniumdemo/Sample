@@ -17,3 +17,5 @@ commit a single file
 new additions 
 
 more additions
+
+Stashing 
