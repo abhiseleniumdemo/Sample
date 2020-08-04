@@ -2,6 +2,8 @@ New File added for demo of reset command
 
 fetch commit from github
 
+Merge Example from local Repo
+
 Content added for Merging changes made on GitHub and Git
 
 Downstream and upstream
