@@ -7,3 +7,5 @@ Merge Example from local Repo
 Content added for Merging changes made on GitHub and Git
 
 Downstream and upstream
+
+rebase example
