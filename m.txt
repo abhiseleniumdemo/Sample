@@ -1,1 +1,1 @@
-local repo - merge conflict demo
+Merge conflict demo from Local and remote
