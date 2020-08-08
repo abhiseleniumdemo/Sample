@@ -23,5 +23,3 @@ more additions
 Stashing 
 
 rebase example
-
-Revert example
