@@ -1,5 +1,3 @@
-NB branch
-
 GitDemo File for Amend
 
 This is a file where I will update and make changes to demonstrate Git and GitHub features.
